@@ -1,0 +1,6 @@
+
+<resources>
+    16     <!-- Height of each list item -->
+    17     <dimen name="list_item_height">88dp</dimen>
+    18 </resources>
+
